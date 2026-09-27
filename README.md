@@ -1,1 +1,1 @@
-# IPT10 Midterm Research & Implementation: Command Design Pattern
+# IPT10 Midterm Research: Command Design Pattern
