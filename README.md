@@ -1,1 +1,1 @@
-# IPT10_MIDTERM_Madlambayan_Christian_Command
+# IPT10 Midterm Research & Implementation: Command Design Pattern
